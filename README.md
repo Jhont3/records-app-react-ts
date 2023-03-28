@@ -1,2 +1,2 @@
-# records-app-react-ts
-This is my repository to practics ReactTS with Redux
+## Reminder Notes App 
+This is my repository to practice ReactTS with Redux
